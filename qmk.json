@@ -1,4 +1,9 @@
 {
-    "userspace_version": "1.0",
-    "build_targets": []
+    "userspace_version": "1.1",
+    "build_targets": [
+        ["keebio/bdn9/rev2", "crownedcomedian_cmd_block_mc_serv_front_keypad"],
+        ["keebio/bdn9/rev2", "crownedcomedian_cmd_block_mc_serv_top_keypad"],
+        ["keebio/bdn9/rev2", "crownedcomedian_cmd_block_mc_serv_left_keypad"],
+        ["keebio/bdn9/rev2", "crownedcomedian_cmd_block_mc_serv_right_keypad"]
+    ]
 }
